@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7"
+  },
+  "name": "flash-translator",
+  "version": "1.0.0",
+  "description": "Um jogo interativo feito em JavaScript onde o jogador precisa clicar na tradução correta de uma palavra em inglês antes que o tempo acabe. Ideal para quem quer aprender vocabulário de forma divertida e desafiadora!",
+  "main": "public/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaolaBiscaro/Flash-Translator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaolaBiscaro/Flash-Translator/issues"
+  },
+  "homepage": "https://github.com/PaolaBiscaro/Flash-Translator#readme",
+  "type": "module"
+}
